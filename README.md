@@ -7,7 +7,7 @@
       https://www.linkedin.com/in/flavioclobo
       https://www.instagram.com/flavioclobo
       https://www.facebook.com/flavioclobo
-      https://twitter.com/flavioclobo
+      https://x.com/flavioclobo
 
 <!---
 flavioclobo/flavioclobo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
